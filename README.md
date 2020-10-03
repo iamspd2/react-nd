@@ -1,2 +1,2 @@
 # react-nd-exercises
-This repo contains practice codes from React ND
+This repo contains practice projects from React ND
